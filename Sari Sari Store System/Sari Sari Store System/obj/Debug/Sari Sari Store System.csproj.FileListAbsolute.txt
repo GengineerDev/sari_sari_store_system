@@ -1,0 +1,14 @@
+C:\Users\LENOVO\source\repos\Sari Sari Store System\Sari Sari Store System\bin\Debug\inventory.mdf
+C:\Users\LENOVO\source\repos\Sari Sari Store System\Sari Sari Store System\bin\Debug\inventory_log.ldf
+C:\Users\LENOVO\source\repos\Sari Sari Store System\Sari Sari Store System\bin\Debug\Sari Sari Store System.exe.config
+C:\Users\LENOVO\source\repos\Sari Sari Store System\Sari Sari Store System\bin\Debug\Sari Sari Store System.exe
+C:\Users\LENOVO\source\repos\Sari Sari Store System\Sari Sari Store System\bin\Debug\Sari Sari Store System.pdb
+C:\Users\LENOVO\source\repos\Sari Sari Store System\Sari Sari Store System\obj\Debug\Sari Sari Store System.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\Sari Sari Store System\Sari Sari Store System\obj\Debug\Sari_Sari_Store_System.projInventory.resources
+C:\Users\LENOVO\source\repos\Sari Sari Store System\Sari Sari Store System\obj\Debug\Sari_Sari_Store_System.Properties.Resources.resources
+C:\Users\LENOVO\source\repos\Sari Sari Store System\Sari Sari Store System\obj\Debug\Sari Sari Store System.csproj.GenerateResource.cache
+C:\Users\LENOVO\source\repos\Sari Sari Store System\Sari Sari Store System\obj\Debug\Sari Sari Store System.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\Sari Sari Store System\Sari Sari Store System\obj\Debug\Sari Sari Store System.exe
+C:\Users\LENOVO\source\repos\Sari Sari Store System\Sari Sari Store System\obj\Debug\Sari Sari Store System.pdb
+C:\Users\LENOVO\source\repos\Sari Sari Store System\Sari Sari Store System\obj\Debug\Sari_Sari_Store_System.mainForm.resources
+C:\Users\LENOVO\source\repos\Sari Sari Store System\Sari Sari Store System\obj\Debug\Sari_Sari_Store_System.inventoryForm.resources
